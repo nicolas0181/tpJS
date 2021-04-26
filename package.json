@@ -33,5 +33,10 @@
     "envs": [
       "mocha"
     ]
+  },
+  "prettier": {
+    "bracketSpacing": false,
+    "singleQuote": true,
+    "trailingComma": "none"
   }
 }
