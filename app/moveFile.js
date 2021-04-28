@@ -18,9 +18,3 @@ const createFolderMoveFile = ([className, file]) => {
 };
 
 module.exports = {createFolderMoveFile};
-/*
-fs.readdir(`./${className}`
-, (err, files) => {
-  return files.length + 1;
-});
-*/
