@@ -12,7 +12,7 @@ Team :
 ```
  git clone https://github.com/nicolas0181/tpJS.git
  cd tpJS
- npm install
+ npm install // or yarn
 ```
 ### Prerequisites
 Download images of animals you want to classify and store them in the root of the project after you downloaded the project.
