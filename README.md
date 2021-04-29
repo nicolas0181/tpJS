@@ -1,12 +1,5 @@
 # Welcome to our functionnal JS project
 
-Team : 
-- Nicolas Chea
-- Christian Chau
-- Meyan Oker
-- Anthony Dubois
-
-
 ## Run on your computer
 
 ```
@@ -21,3 +14,9 @@ Download images of animals you want to classify and store them in the root of th
 ## What it does ?
 Our programm recognizes animals and store their race in the right folders, the informations of each prediction are stored in a JSON file.
 
+## Autors
+
+- Nicolas Chea
+- Christian Chau
+- Meyan Oker
+- Anthony Dubois
