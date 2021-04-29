@@ -20,3 +20,5 @@ Our programm recognizes animals and store their race in the right folders, the i
 - Christian Chau
 - Meyan Oker
 - Anthony Dubois
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
