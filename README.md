@@ -22,5 +22,6 @@ This programm recognizes known objects, animals... using the famous Coco-SSD mod
 - Meyan Oker
 - Anthony Dubois
 
+2I Esme Sudria
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
